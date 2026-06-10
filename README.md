@@ -26,7 +26,7 @@ The app fetches real-time weather data from **OpenWeatherMap API** and displays 
 
 ## 🚀 Live Demo
 
-[Live Demo](https://yousefalhadha.github.io/Weather-API/)
+[Live Demo](https://yousefalhadha.github.io/weather-app/)
 
 ---
 
